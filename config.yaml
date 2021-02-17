@@ -6,3 +6,10 @@ params:
     adapter: 'GATCGGAAGAGC'
     other: "--minimum-length 1 -q 20"
   multiqc: ''
+
+threads:
+  host_filter: 4
+
+
+host_reference:
+  ref_data/GRCh38_bt2/GCA_000001405.15_GRCh38_full_analysis_set.fna.bowtie_index
