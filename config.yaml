@@ -1,0 +1,8 @@
+samples:
+  'samples.txt'
+
+params:
+  cutadapt:
+    adapter: 'GATCGGAAGAGC'
+    other: "--minimum-length 1 -q 20"
+  multiqc: ''
