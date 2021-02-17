@@ -5,3 +5,5 @@ Steps we want our workflow to have:
 - Remove host reads
 - QC visualization report
 - assembly 
+
+We will use this as a playground for exploring Snakemake.
